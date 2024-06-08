@@ -10,4 +10,4 @@ Create a database named <code>voting_system</code>
 
 ## :file_folder: Download file Database
 The dataset used can be downloaded here - [voting_system.sql](https://github.com/mojtaba-almayhay/Electronic_voting/blob/main/db/voting_system.sql)
-ش
+And then include the file
