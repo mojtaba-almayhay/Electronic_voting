@@ -2,7 +2,15 @@
 
 ## Electronic means of voting and electronic means of counting votes
 ##
+<p align="center"><img src="https://github.com/mojtaba-almayhay/Electronic_voting/blob/main/screen/screen5.PNG" width="700" height="400"></p>
 <p align="center"><img src="https://github.com/mojtaba-almayhay/Electronic_voting/blob/main/screen/screen1.PNG" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/mojtaba-almayhay/Electronic_voting/blob/main/screen/screen2.PNG" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/mojtaba-almayhay/Electronic_voting/blob/main/screen/screen3.PNG" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/mojtaba-almayhay/Electronic_voting/blob/main/screen/screen4.PNG" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/mojtaba-almayhay/Electronic_voting/blob/main/screen/screen6.PNG" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/mojtaba-almayhay/Electronic_voting/blob/main/screen/screen7.PNG" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/mojtaba-almayhay/Electronic_voting/blob/main/screen/screen8.PNG" width="700" height="400"></p>
+
 
 ## :bulb: Working
 The app server used can be downloaded here - [XAMPP](https://www.apachefriends.org/download.html)
